@@ -1,3 +1,6 @@
+<?php 
+echo 'Hej'
+?>
 <!DOCTYPE html>
 <html>
 <body>
